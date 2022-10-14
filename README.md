@@ -1,4 +1,4 @@
-# Oi meu nome é: Wesley Steve Apaixonado por tecnologia, principalmente se for algo relacionado a DADOS
+# Oi meu nome é: Wesley Steve Apaixonado por tecnologia, principalmente quando se envolvem dados
 ## Gosto muito de desafios, porque eles nos fazem pensar fora da caixa para resolve-los
 
 <div align="center">
