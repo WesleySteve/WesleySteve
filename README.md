@@ -1,5 +1,9 @@
-# Oi meu nome é: Wesley Steve Apaixonado por tecnologia, principalmente quando se envolvem dados
-## Gosto muito de desafios, porque eles nos fazem pensar fora da caixa para resolve-los
+# Ola meu nome é: Wesley Steve
+
+## Seja bem vindo ao meu Github
+
+ Sou apaixonado por tecnologia, principalmente quando se envolvem dados
+### Gosto muito de desafios, porque eles nos fazem pensar fora da caixa para resolve-los
 
 <div align="center">
   <a href="https://github.com/WesleySteve">
@@ -16,8 +20,6 @@
   <img align="center" alt="Wesley-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Wesley-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Wesley-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wesley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 </div>
   
