@@ -1,8 +1,10 @@
-# Ola meu nome é: Wesley Steve
+Seja bem vindo ao meu perfil.
 
-## Seja bem vindo ao meu Github
+Meu nome é Wesley Steve!
 
- Sou apaixonado por tecnologia, principalmente quando se envolvem dados
+Objetivo:
+- Atual em uma equipe onde eu possa desenvolver e refinar minhas habilidades, na área de dados.
+
 ### Gosto muito de desafios, porque eles nos fazem pensar fora da caixa para resolve-los
 
 <div align="center">
